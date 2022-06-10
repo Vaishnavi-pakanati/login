@@ -1,0 +1,42 @@
+#vv
+{
+    background-color: rgb(60, 185, 137);
+
+}
+#ka
+{
+    height:400px;
+    width:500px;
+    margin:auto;
+    padding-left:35px;
+    box-shadow: 3px;
+    margin-top:90px;
+
+    
+
+}
+h1{
+    text-shadow: 4px;
+    color:rgb(21, 21, 167);
+}
+#b
+{
+    margin-left:10px;
+    color:rgb(26, 16, 16);
+    font-size:15px;
+
+    
+}
+#f
+{
+    color:rgb(42, 61, 165);
+}
+
+#i
+{
+    background-color: rgb(23, 70, 70);
+}
+p{
+    font-size:14px;
+    color:rgb(95, 19, 19);
+}
